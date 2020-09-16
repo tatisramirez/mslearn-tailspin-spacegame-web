@@ -5,7 +5,6 @@ pool:
   name: 'MyAgentPool'
   demands:
   - npm
-
 variables:
   buildConfiguration: 'Release'
   wwwrootDir: 'Tailspin.SpaceGame.Web/wwwroot'
